@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 59,
       "createdAt": "2023-10-26T22:35:46.833Z"
+    },
+    {
+      "id": 3,
+      "description": "Notebook",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 16402,
+      "createdAt": "2023-10-26T22:39:46.833Z"
     }
   ]
 }
