@@ -1,4 +1,4 @@
-import styled, { css } from "styled-components";
+import styled from "styled-components";
 
 export const SummaryContainer = styled.section`
   width: 100%;
@@ -20,9 +20,7 @@ export const SummaryCard = styled.div<SummaryCardProps>`
   width: 100%;
   border-radius: 0.25rem;
   padding: 1.5rem;
-  ${props => props.variant === 'green' && css
-    `background: ${props.theme['green-500']};
-  `}
+  background: ${props => props.variant === 'green' &&  props.theme['green-500']};
   color: ${props => props.variant === 'green' ? props.theme.white : props.theme['gray-300']};
   strong {
     font-size: 2rem;
