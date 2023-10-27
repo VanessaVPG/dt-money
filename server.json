@@ -23,6 +23,30 @@
       "category": "Compra",
       "price": 16402,
       "createdAt": "2023-10-26T22:39:46.833Z"
+    },
+    {
+      "description": "Xarópe",
+      "price": 50,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2023-10-27T14:19:50.858Z",
+      "id": 4
+    },
+    {
+      "description": "Xarópe",
+      "price": 50,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2023-10-27T14:19:54.296Z",
+      "id": 5
+    },
+    {
+      "description": "Sorvete",
+      "price": 30,
+      "type": "income",
+      "category": "Alimentação",
+      "createdAt": "2023-10-27T14:49:38.491Z",
+      "id": 6
     }
   ]
 }
