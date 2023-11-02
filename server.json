@@ -47,6 +47,14 @@
       "category": "Alimentação",
       "createdAt": "2023-10-27T14:49:38.491Z",
       "id": 6
+    },
+    {
+      "description": "Desenvolvimento de site",
+      "price": 4000,
+      "type": "income",
+      "category": "Sites",
+      "createdAt": "2023-11-01T14:27:34.218Z",
+      "id": 7
     }
   ]
 }
